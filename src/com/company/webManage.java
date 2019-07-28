@@ -9,23 +9,82 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class webManage{
-    public static List<String> regexPattern2Lst(String rawMessage,String regex)
+    public static List<statusNode> generator(String url)
     {
+
+        String rawMsg=webManage.readWeb(url);
+        String tableContent= webManage.matchRegex(rawMsg,"<div class=\"recently-submit\">(.*?)</div>");
+
+        Pattern rawTablePatten=Pattern.compile("<tbody>(.*?)</tbody>");
+        Matcher rawTableMatcher=rawTablePatten.matcher(tableContent);
+        String rawTable="";
+        if(rawTableMatcher.find())
+            rawTable=rawTableMatcher.group(0);
+
         List<String>  arr=new ArrayList<>();
-        Pattern regexPatten = Pattern.compile(regex);
-        Matcher matchGroup = regexPatten.matcher(rawMessage);
-        System.out.println(matchGroup.groupCount());
-        if(matchGroup.find())
+
+        Pattern regexPatten = Pattern.compile("(<tr>|<tr class=\"alt\">)(.*?)</tr>");
+        Matcher matchGroup = regexPatten.matcher(rawTable);
+
+        while(matchGroup.find())
         {
-            for(int i=1;i<matchGroup.groupCount();i++)
-                arr.add(matchGroup.group(i));
+            arr.add(rawTable.substring(matchGroup.start(),matchGroup.end()));
         }
-        else
+        String toSolveValue;
+        List <statusNode> statusList =new ArrayList<>();
+        statusNode sn1;
+        for(String it : arr)
         {
-            arr.add("");
+            sn1=new statusNode();
+            Pattern regexTitle = Pattern.compile("<td class=\"title\"><a .+?>(.*?)</a></td>");
+            Matcher matcherTitle = regexTitle.matcher(it);
+            if(matcherTitle.find())
+                sn1.title=webManage.replaceRegex(matcherTitle.group(0),"<.+?>","");
+
+            Pattern regexStatus = Pattern.compile("<td class=\"result\"><a .+?>(.*?)</a></td>");
+            Matcher matcherStatus = regexStatus.matcher(it);
+            if(matcherStatus.find())
+                sn1.status=webManage.replaceRegex(matcherStatus.group(0),"<.+?>","");
+
+            Pattern regexMem = Pattern.compile("<td class=\"memory\">(.*?)</td>");
+            Matcher matcherMem = regexMem.matcher(it);
+            if(matcherMem.find()) {
+                toSolveValue = webManage.replaceRegex(matcherMem.group(0), "<.+?>", "");
+                if(!toSolveValue.isBlank()) {
+                    toSolveValue = toSolveValue.substring(0, toSolveValue.length() - 2);
+                    sn1.memory = Integer.parseInt(toSolveValue);
+                }
+            }
+            Pattern regexTime = Pattern.compile("<td class=\"spending-time\">(.*?)</td>");
+            Matcher matcherTime = regexTime.matcher(it);
+            if(matcherTime.find()) {
+                toSolveValue= webManage.replaceRegex(matcherTime.group(0), "<.+?>", "");
+                if(!toSolveValue.isBlank()) {
+                    toSolveValue = toSolveValue.substring(0, toSolveValue.length() - 2);
+                    sn1.runtime = Integer.parseInt(toSolveValue);
+                }
+            }
+
+            Pattern regexCdLength = Pattern.compile("<td class=\"code-length\">(.*?)</td>");
+            Matcher matcherCdLength = regexCdLength.matcher(it);
+            if(matcherCdLength.find()) {
+                toSolveValue= webManage.replaceRegex(matcherCdLength.group(0), "<.+?>", "");
+
+                toSolveValue = toSolveValue.substring(0, toSolveValue.length() - 2);
+                sn1.codeLength = Integer.parseInt(toSolveValue);
+
+            }
+
+                Pattern regexLang = Pattern.compile("<td class=\"language\"><a .+?>(.*?)</a></td>");
+            Matcher matcherLang = regexLang.matcher(it);
+            if(matcherLang.find())
+                sn1.language=webManage.replaceRegex(matcherLang.group(0),"<.+?>","" );
+
+            statusList.add(sn1);
         }
-        return arr;
+        return statusList;
     }
+
     public static String replaceRegex(String rawMessage,String regex,String target)
     {
         Pattern regexPatten = Pattern.compile(regex);
@@ -77,3 +136,4 @@ public class webManage{
         }
 	}
 }
+
