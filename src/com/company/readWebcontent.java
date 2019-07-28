@@ -1,5 +1,12 @@
+package com.company;
+
+import java.io.*;
+import java.net.MalformedURLException;
+import java.net.URL;
+
 public class readWebcontent{
-	public static readWeb(){
+    static String webpageCtx;
+	public static void readWeb(String strUrl){
 		try {
             URL url = new URL(strUrl);
             InputStream is = url.openStream();
