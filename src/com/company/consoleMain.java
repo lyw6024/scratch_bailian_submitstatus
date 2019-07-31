@@ -1,9 +1,6 @@
 package com.company;
 
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 
 public class consoleMain {
     public static void main(String[] argv)
@@ -38,9 +35,43 @@ public class consoleMain {
 
          */
         List<statusNode> sList= fileManager.getStatusNode();
-        System.out.println(sList.size());
-        
+        Map<String,Integer> AllLanguageCollection=new HashMap<>();
+        Map<String,Integer> AcLanguageCollection=new HashMap<>();
+        Integer AcCount,totalCount=0;
+        AcCount=0;
 
+        for(statusNode it : sList)
+        {
+            totalCount+=1;
+            if (AllLanguageCollection.containsKey(it.language)) {
+                AllLanguageCollection.put(it.language, AllLanguageCollection.get(it.language) + 1);
+            } else {
+                AllLanguageCollection.put(it.language, 1);
+            }
+
+            if(it.status.equals("Accepted")) {
+                AcCount+=1;
+                if (AcLanguageCollection.containsKey(it.language)) {
+                    AcLanguageCollection.put(it.language, AcLanguageCollection.get(it.language) + 1);
+                } else {
+                    AcLanguageCollection.put(it.language, 1);
+                }
+            }
+        }
+
+        Set<String> lanSet=AllLanguageCollection.keySet();
+        for(String it :lanSet)
+        {
+            System.out.printf("%s,%.2f%%\n",it,(float)100*AllLanguageCollection.get(it)/totalCount);
+        }
+
+        System.out.println();
+        lanSet=AcLanguageCollection.keySet();
+        for(String it :lanSet)
+        {
+            System.out.printf("%s,%.2f%%\n",it,(float)100*AcLanguageCollection.get(it)/totalCount);
+        }
 
     }
+
 }
