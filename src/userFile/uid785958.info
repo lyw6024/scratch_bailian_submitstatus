@@ -1,0 +1,439 @@
+3659: 判断是否为C语言的合法标识符|C#|Accepted|27|6000|996
+2803: 碎纸机|G++|Accepted|3|144|1218
+2773: 采药|G++|Accepted|12|200|419
+2727: 还是采药问题|G++|Accepted|7|176|419
+2726: 采药|G++|Accepted|3|144|419
+2726: 采药|G++|Runtime Error|4|144|415
+2945: 拦截导弹|G++|Accepted|5|160|678
+3252: 最大正向匹配|G++|Accepted|1|128|1005
+1416: Shredding Company|G++|Wrong Answer|2|136|2173
+2803: 碎纸机|G++|Wrong Answer|3|144|2173
+2945: 拦截导弹|G++|Accepted|5|160|679
+4002: 谁是你的潜在朋友|G++|Accepted|4|160|463
+4002: 谁是你的潜在朋友|G++|Wrong Answer|5|160|514
+4002: 谁是你的潜在朋友|G++|Wrong Answer|5|160|512
+4002: 谁是你的潜在朋友|G++|Runtime Error|17|164|494
+4001: 抓住那头牛|G++|Accepted|19|472|1546
+4001: 抓住那头牛|G++|Runtime Error|14|316|1557
+4001: 抓住那头牛|Python3|Time Limit Exceeded|20000|65536|694
+4001: 抓住那头牛|G++|Accepted|18|472|1096
+4001: 抓住那头牛|G++|Runtime Error|13|316|1417
+4001: 抓住那头牛|G++|Runtime Error|14|316|1376
+4001: 抓住那头牛|G++|Runtime Error|32|2876|1044
+4021: 最大乘积|Python3|Accepted|40|7152|676
+4021: 最大乘积|Python3|Wrong Answer|40|7156|544
+4021: 最大乘积|Python3|Wrong Answer|33|6772|445
+4018: 子串|C#|Accepted|21|5744|564
+4002: 谁是你的潜在朋友|C#|Accepted|128|6008|719
+4015: 邮箱验证|C#|Wrong Answer|74|8424|357
+4018: 子串|C#|Waiting|-1|-1|565
+4018: 子串|C#|Compile Error|-1|-1|565
+4018: 子串|C#|Compile Error|-1|-1|538
+4017: 爬楼梯|C#|Accepted|25|6000|528
+4017: 爬楼梯|C#|Wrong Answer|22|6000|519
+4019: 黑色星期五|C#|Accepted|22|6000|1428
+4019: 黑色星期五|C#|Wrong Answer|24|6000|1099
+4107: 19岁生日礼物-Birthday Gift|C#|Accepted|25|6000|870
+4107: 19岁生日礼物-Birthday Gift|C#|Compile Error|-1|-1|869
+4016: 班级排名|G++|Accepted|1|128|527
+4138: 质数的和与积|G++|Accepted|0|200|652
+4138: 质数的和与积|G++|Wrong Answer|7|200|652
+3864: 与7无关的数|Python3|Accepted|87|6900|595
+2575: 有趣的跳跃|G++|Accepted|13|236|604
+2981: 大整数加法|G++|Wrong Answer|8|200|1228
+2981: 大整数加法|G++|Wrong Answer|8|200|1225
+2981: 大整数加法|G++|Runtime Error|6|216|1214
+2981: 大整数加法|G++|Wrong Answer|5|200|1085
+3253: 集合的划分|G++|Accepted|1|128|494
+3253: 集合的划分|G++|Wrong Answer|2|128|485
+1328: Radar Installation|G++|Accepted|4|276|1385
+1328: Radar Installation|G++|Wrong Answer|5|276|1297
+1328: Radar Installation|G++|Wrong Answer|11|276|1262
+1328: Radar Installation|G++|Wrong Answer|7|276|1221
+1328: Radar Installation|G++|Time Limit Exceeded|1000|272|979
+1328: Radar Installation|G++|Time Limit Exceeded|1000|272|852
+2386: Lake Counting|G++|Accepted|11|776|843
+2899: 矩阵交换行|G++|Accepted|1|160|582
+2871: 整数奇偶排序|G++|Accepted|1|128|649
+1657: Distance on Chessboard|G++|Accepted|1|128|1503
+4074: 积水量|G++|Accepted|411|256|543
+4074: 积水量|G++|Wrong Answer|1|128|570
+2734: 十进制到八进制|G++|Accepted|10|200|80
+3178: 开关电灯|G++|Accepted|7|176|275
+2723: 不吉利日期|G++|Accepted|10|200|302
+2000: 金币|G++|Accepted|0|144|221
+2000: 金币|G++|Accepted|0|144|333
+3256: 矩阵的乘法|G++|Accepted|0|128|1146
+3244: 跳水比赛|Python3|Accepted|54|6644|18
+3244: 跳水比赛|G++|Wrong Answer|0|128|528
+1163: The Triangle|G++|Runtime Error|8|204|595
+1163: The Triangle|G++|Accepted|1|180|592
+4041: 矩阵运算|G++|Accepted|2|136|1529
+4041: 矩阵运算|G++|Runtime Error|2|136|1529
+4075: 矩阵旋转|G++|Accepted|2|136|436
+2679: 整数的立方和|Java|Accepted|402|22436|240
+2796: 数字求和|Java|Accepted|1312|25900|307
+2676: 整数的个数|Java|Accepted|4013|27728|479
+2675: 计算书费|Java|Accepted|474|27792|475
+1000: A+B Problem|Java|Accepted|1356|28288|209
+2976: All in All|G++|Time Limit Exceeded|1000|1408|753
+2976: All in All|G++|Runtime Error|2|512|731
+2808: 校门外的树|G++|Accepted|10|200|481
+1331: Multiply|G++|Accepted|1|128|941
+1331: Multiply|G++|Wrong Answer|2|128|504
+4085: 数组去重排序|G++|Accepted|333|1000|394
+4104: 单词翻转|G++|Accepted|8|200|507
+4104: 单词翻转|G++|Runtime Error|11|164|478
+4104: 单词翻转|G++|Wrong Answer|10|128|407
+2868: 牛顿迭代方法|G++|Accepted|2|128|383
+2868: 牛顿迭代方法|G++|Wrong Answer|1|128|376
+2868: 牛顿迭代方法|G++|Wrong Answer|2|128|386
+2703: 骑车与走路|G++|Accepted|2|136|474
+3262: 新数字三角形|G++|Accepted|3|256|570
+3262: 新数字三角形|G++|Wrong Answer|1|128|570
+3468: 电池的寿命|G++|Accepted|12|384|430
+3468: 电池的寿命|G++|Wrong Answer|9|384|377
+4110: 圣诞老人的礼物-Santa Clau’s Gifts|G++|Accepted|2|136|811
+4103: 踩方格|G++|Accepted|1|128|221
+4103: 踩方格|G++|Wrong Answer|1|128|439
+2694: 逆波兰表达式|GCC|Wrong Answer|0|128|565
+4151: 电影节|G++|Accepted|1|128|707
+2694: 逆波兰表达式|GCC|Wrong Answer|1|128|565
+2694: 逆波兰表达式|G++|Compile Error|-1|-1|579
+2694: 逆波兰表达式|G++|Compile Error|-1|-1|563
+4151: 电影节|G++|Wrong Answer|1|128|636
+4151: 电影节|G++|Wrong Answer|1|128|629
+4151: 电影节|G++|Wrong Answer|1|128|598
+4143: 和为给定数|G++|Accepted|126|3072|629
+4143: 和为给定数|G++|Wrong Answer|95|3072|647
+4143: 和为给定数|G++|Wrong Answer|82|3072|642
+4143: 和为给定数|G++|Wrong Answer|7|164|677
+4143: 和为给定数|G++|Wrong Answer|101|3072|654
+4143: 和为给定数|G++|Wrong Answer|102|3072|645
+4139: 不定方程求解|G++|Accepted|12|200|200
+2160: Box|G++|Accepted|10|328|815
+2160: Box|G++|Wrong Answer|25|328|811
+2910: 提取数字|Python3|Wrong Answer|373|6824|141
+2910: 提取数字|Python3|Wrong Answer|385|6824|146
+2910: 提取数字|Python3|Wrong Answer|458|6824|128
+2910: 提取数字|G++|Wrong Answer|0|196|262
+2910: 提取数字|G++|Wrong Answer|1|184|262
+2039: 反反复复|Python3|Accepted|372|6828|213
+4141: 砝码称重|Python3|Accepted|484|6924|446
+2701: 与7无关的数|Python3|Accepted|387|6828|94
+2701: 与7无关的数|Python3|Accepted|358|6828|119
+2701: 与7无关的数|Python3|Wrong Answer|451|6828|211
+2508: Conic distance|G++|Wrong Answer|2|136|516
+2508: Conic distance|G++|Wrong Answer|2|136|532
+2508: Conic distance|G++|Wrong Answer|1|136|543
+2508: Conic distance|G++|Wrong Answer|2|136|544
+2508: Conic distance|G++|Wrong Answer|1|136|513
+4007: 计算字符串距离|G++|Wrong Answer|26|4096|623
+2811: 熄灯问题|G++|Accepted|10|200|680
+2797: 最短前缀|G++|Wrong Answer|8|340|1084
+4131: Charm Bracelet|G++|Accepted|144|360|524
+4131: Charm Bracelet|G++|Wrong Answer|184|360|537
+4001: 抓住那头牛|G++|Accepted|20|792|1019
+4001: 抓住那头牛|G++|Wrong Answer|27|1296|960
+4001: 抓住那头牛|G++|Wrong Answer|25|784|960
+4001: 抓住那头牛|G++|Runtime Error|10|576|935
+4001: 抓住那头牛|G++|Runtime Error|20|1088|1073
+4001: 抓住那头牛|G++|Runtime Error|13|576|1073
+4117: 简单的整数划分问题|G++|Accepted|13|128|361
+4117: 简单的整数划分问题|G++|Wrong Answer|1|128|346
+2797: 最短前缀|G++|Wrong Answer|17|328|1084
+2797: 最短前缀|G++|Wrong Answer|19|328|1100
+2806: 公共子序列|G++|Accepted|12|144|645
+2806: 公共子序列|G++|Accepted|3|272|945
+4045: 与3和5无关的数|G++|Accepted|2|136|402
+4045: 与3和5无关的数|G++|Wrong Answer|0|136|397
+1064: 网线主管|G++|Accepted|57|724|613
+1064: 网线主管|G++|Wrong Answer|0|164|645
+1064: 网线主管|G++|Accepted|44|724|596
+2748: 全排列|G++|Accepted|5|172|301
+1064: 网线主管|G++|Wrong Answer|43|724|536
+2911: 受限完全平方数|G++|Accepted|0|128|194
+2911: 受限完全平方数|G++|Wrong Answer|1|128|238
+1473: There's Treasure Everywhere!|G++|Accepted|2|136|1305
+1473: There's Treasure Everywhere!|G++|Wrong Answer|3|136|1256
+1473: There's Treasure Everywhere!|G++|Wrong Answer|2|136|2311
+1316: Self Numbers|G++|Accepted|1|128|318
+1005: I Think I Need a Houseboat|GCC|Accepted|1|128|363
+2910: 提取数字|GCC|Wrong Answer|6|196|498
+1088: 滑雪|G++|Accepted|519|500|1420
+1088: 滑雪|G++|Wrong Answer|2|164|1453
+1088: 滑雪|G++|Wrong Answer|372|372|1371
+1088: 滑雪|G++|Wrong Answer|367|392|1363
+1088: 滑雪|G++|Runtime Error|10|128|1445
+1088: 滑雪|G++|Runtime Error|549|496|1415
+1088: 滑雪|G++|Wrong Answer|641|540|1409
+1088: 滑雪|G++|Wrong Answer|606|500|1266
+1088: 滑雪|G++|Time Limit Exceeded|1000|368|926
+1088: 滑雪|G++|Wrong Answer|16|860|1133
+1088: 滑雪|G++|Wrong Answer|364|412|938
+1008: Maya Calendar|G++|Accepted|2|128|892
+1008: Maya Calendar|G++|Wrong Answer|2|128|919
+1008: Maya Calendar|G++|Wrong Answer|2|128|842
+1527: Making the Grade|G++|Accepted|1|136|1304
+1833: 排列|G++|Accepted|152|4992|405
+1833: 排列|G++|Accepted|126|4992|345
+1702: Eva's Balance|G++|Accepted|8|264|1268
+2757: 最长上升子序列|G++|Accepted|10|208|381
+2757: 最长上升子序列|G++|Wrong Answer|10|172|435
+2757: 最长上升子序列|G++|Accepted|15|208|380
+2757: 最长上升子序列|GCC|Compile Error|-1|-1|379
+2788: 二叉树|GCC|Accepted|2|256|537
+2788: 二叉树|GCC|Wrong Answer|4|256|404
+2788: 二叉树|GCC|Wrong Answer|5|256|389
+2945: 拦截导弹|GCC|Accepted|0|160|364
+2943: 小白鼠排队|GCC|Accepted|10|208|459
+2786: Pell数列|GCC|Accepted|2|136|297
+2952: 循环数|GCC|Accepted|6|200|1064
+2952: 循环数|GCC|Wrong Answer|11|200|1060
+2764: 数根|GCC|Accepted|10|200|343
+1007: DNA排序|GCC|Accepted|10|224|592
+2910: 提取数字|GCC|Wrong Answer|9|196|462
+2910: 提取数字|GCC|Wrong Answer|1|196|373
+2910: 提取数字|GCC|Wrong Answer|10|196|369
+2910: 提取数字|GCC|Wrong Answer|7|196|375
+3179: 最长单词|GCC|Accepted|2|136|596
+3179: 最长单词|GCC|Wrong Answer|2|128|608
+2868: 牛顿迭代方法|G++|Wrong Answer|1|128|422
+2868: 牛顿迭代方法|G++|Wrong Answer|1|128|389
+2868: 牛顿迭代方法|G++|Wrong Answer|2|128|389
+1575: Easier Done Than Said?|GCC|Accepted|2|136|895
+1318: Word Amalgamation|G++|Accepted|0|128|1488
+1318: Word Amalgamation|G++|Wrong Answer|3|128|1012
+2109: Power of Cryptography|GCC|Accepted|2|136|475
+2109: Power of Cryptography|GCC|Wrong Answer|2|136|252
+2109: Power of Cryptography|GCC|Time Limit Exceeded|1001|132|676
+2109: Power of Cryptography|GCC|Time Limit Exceeded|1001|132|724
+2109: Power of Cryptography|GCC|Time Limit Exceeded|1001|132|725
+1595: Prime Cuts|GCC|Accepted|2|136|902
+2013: Symmetric Order|GCC|Accepted|2|136|553
+1450: Gridland|GCC|Accepted|16|400|236
+2868: 牛顿迭代方法|Python3|Compile Error|-1|-1|174
+2104: K-th Number|GCC|Time Limit Exceeded|5000|10660|462
+2938: 按顺序输出|GCC|Accepted|0|168|283
+2160: Box|GCC|Wrong Answer|0|328|661
+2159: Ancient Cipher|G++|Accepted|1|352|549
+2820: 古代密码|G++|Accepted|0|200|549
+1298: The Hardest Problem Ever|GCC|Accepted|1|136|477
+2767: 简单密码|GCC|Accepted|1|200|189
+1547: Clay Bully|GCC|Accepted|0|136|871
+1552: Doubles|G++|Accepted|0|136|594
+2807: 两倍|G++|Accepted|1|200|508
+2807: 两倍|G++|Wrong Answer|0|200|505
+2810: 完美立方|GCC|Accepted|74|196|403
+2810: 完美立方|GCC|Wrong Answer|70|196|403
+2810: 完美立方|GCC|Runtime Error|79|232|404
+10: Best Cow Line, Gold|G++|Accepted|1984|1332|796
+09: 最大子矩阵|G++|Accepted|11|256|873
+07: 画家问题|G++|Wrong Answer|11|200|2258
+05: 单词序列|G++|Accepted|0|152|1059
+04: 宠物小精灵之收服|GCC|Compile Error|-1|-1|715
+04: 宠物小精灵之收服|G++|Compile Error|-1|-1|715
+04: 宠物小精灵之收服|G++|Compile Error|-1|-1|614
+03: 开餐馆|G++|Accepted|53|716|893
+02: 马走日|G++|Accepted|78|128|854
+01: 大盗阿福|G++|Accepted|95|3968|417
+2758: 菲波那契数列(2)|GCC|Accepted|3|144|5976
+2753: 菲波那契数列|GCC|Accepted|1|136|241
+2753: 菲波那契数列|GCC|Wrong Answer|2|128|226
+2753: 菲波那契数列|GCC|Wrong Answer|2|128|224
+1658: Eva's Problem|GCC|Accepted|1|128|273
+2938: 按顺序输出|GCC|Wrong Answer|6|168|522
+2938: 按顺序输出|GCC|Wrong Answer|6|168|498
+2938: 按顺序输出|GCC|Compile Error|-1|-1|499
+3163: use recursion to write a function to do this “123456789987654321”|GCC|Accepted|1|128|133
+3177: 判决素数个数|GCC|Accepted|20|328|611
+3177: 判决素数个数|GCC|Runtime Error|10|200|607
+3177: 判决素数个数|GCC|Wrong Answer|10|200|550
+3860: unix纪元|GCC|Accepted|1|128|881
+2942: 吃糖果|GCC|Accepted|2|160|292
+3258: 兔子产子|GCC|Accepted|2|136|282
+3860: unix纪元|GCC|Wrong Answer|1|128|955
+3860: unix纪元|GCC|Wrong Answer|1|128|935
+3860: unix纪元|GCC|Wrong Answer|1|128|934
+3860: unix纪元|GCC|Compile Error|-1|-1|1248
+3860: unix纪元|Python3|Compile Error|-1|-1|934
+2714: 求平均年龄|Python3|Accepted|357|3268|106
+3225: 满足条件的整数|Python3|Accepted|46|3196|189
+3225: 满足条件的整数|Python3|Wrong Answer|60|3196|181
+3225: 满足条件的整数|Python3|Wrong Answer|67|3196|181
+3259: 求具有abcd=(ab+cd)&lt;sup&gt;2&lt;/sup&gt;,abcdef=(abc+def)&lt;sup&gt;2&lt;/sup&gt;性质的四位数或六位数|G++|Accepted|2|136|149
+3259: 求具有abcd=(ab+cd)&lt;sup&gt;2&lt;/sup&gt;,abcdef=(abc+def)&lt;sup&gt;2&lt;/sup&gt;性质的四位数或六位数|G++|Compile Error|-1|-1|150
+2742: 统计字符数|GCC|Accepted|3|152|438
+2742: 统计字符数|GCC|Compile Error|-1|-1|436
+2788: 二叉树|GCC|Wrong Answer|5|256|271
+2788: 二叉树|GCC|Wrong Answer|5|256|262
+2756: 二叉树|GCC|Accepted|10|216|228
+2756: 二叉树|GCC|Wrong Answer|11|216|231
+2788: 二叉树|GCC|Wrong Answer|5|256|250
+2756: 二叉树|GCC|Wrong Answer|11|216|208
+2756: 二叉树|GCC|Wrong Answer|6|172|121
+2767: 简单密码|GCC|Runtime Error|11|200|648
+3860: unix纪元|GCC|Wrong Answer|1|128|729
+2733: 判断闰年|GCC|Accepted|10|200|258
+2720: 大象喝水|G++|Accepted|10|200|198
+2720: 大象喝水|GCC|Compile Error|-1|-1|198
+3143: 验证“歌德巴赫猜想”|GCC|Accepted|14|280|615
+3143: 验证“歌德巴赫猜想”|GCC|Wrong Answer|19|276|579
+3143: 验证“歌德巴赫猜想”|GCC|Wrong Answer|20|280|736
+3142: 球弹跳高度的计算|G++|Accepted|10|200|174
+3866: Red and Black|GCC|Accepted|5|184|1539
+2388: 寻找中位数|G++|Accepted|22|408|195
+2388: 寻找中位数|G++|Compile Error|-1|-1|197
+2699: 自整除数|G++|Accepted|3|144|161
+2699: 自整除数|G++|Wrong Answer|1|144|159
+2687: 数组逆序重放|G++|Accepted|10|200|221
+3237: 鸡兔同笼|G++|Accepted|1|136|240
+3237: 鸡兔同笼|G++|Wrong Answer|2|136|200
+3237: 鸡兔同笼|G++|Compile Error|-1|-1|185
+2718: 晶晶赴约会|G++|Accepted|2|160|179
+2718: 晶晶赴约会|G++|Wrong Answer|5|160|178
+2718: 晶晶赴约会|G++|Compile Error|-1|-1|175
+2718: 晶晶赴约会|G++|Compile Error|-1|-1|174
+3237: 鸡兔同笼|G++|Wrong Answer|3|136|183
+3237: 鸡兔同笼|G++|Compile Error|-1|-1|185
+3237: 鸡兔同笼|GCC|Compile Error|-1|-1|185
+2700: 字符替换|GCC|Accepted|5|200|183
+2730: 求20以内n的阶乘|GCC|Accepted|1|144|122
+2700: 字符替换|GCC|Compile Error|-1|-1|159
+3857: A+B Problem|G++|Accepted|3|144|106
+3857: A+B Problem|G++|Compile Error|-1|-1|86
+3164: 奇偶排序|G++|Accepted|3|144|302
+3164: 奇偶排序|G++|Compile Error|-1|-1|286
+2728: 第一个C++程序|Python3|Accepted|39|6772|24
+1348: Computing|GCC|Accepted|3|144|1288
+2787: 算24|GCC|Accepted|76|256|1207
+2790: 迷宫|GCC|Accepted|1|384|1168
+2790: 迷宫|GCC|Wrong Answer|3|384|1105
+1032: Parliament|GCC|Wrong Answer|0|280|1168
+2765: 八进制小数|GCC|Wrong Answer|1|200|257
+1102: LC-Display|GCC|Accepted|0|128|1748
+1102: LC-Display|GCC|Presentation Error|0|128|1496
+1102: LC-Display|GCC|Presentation Error|0|128|1747
+1088: 滑雪|GCC|Wrong Answer|1002|368|1208
+1: 迷宫问题|GCC|Accepted|1|128|133
+1979: Red and Black|GCC|Accepted|4|184|1539
+1: 红与黑|GCC|Accepted|4|184|1539
+2816: 红与黑|GCC|Accepted|5|184|1539
+2816: 红与黑|GCC|Output Limit Exceeded|904|844|1570
+2816: 红与黑|GCC|Compile Error|-1|-1|1489
+1248: Safecracker|GCC|Accepted|128|136|1383
+1248: Safecracker|GCC|Output Limit Exceeded|5|452|1410
+1543: Perfect Cubes|GCC|Accepted|36|136|350
+1543: Perfect Cubes|GCC|Wrong Answer|39|136|348
+1406: A Starship Hakodate-maru|GCC|Accepted|33|144|808
+1406: A Starship Hakodate-maru|GCC|Wrong Answer|23|144|804
+1207: The 3n + 1 problem|GCC|Accepted|4|128|567
+1207: The 3n + 1 problem|GCC|Wrong Answer|4|128|573
+1207: The 3n + 1 problem|GCC|Wrong Answer|5|128|542
+1207: The 3n + 1 problem|GCC|Wrong Answer|3|128|464
+1207: The 3n + 1 problem|GCC|Wrong Answer|1|128|34156
+1519: Digital Roots|GCC|Accepted|0|144|388
+1338: Ugly Numbers|GCC|Accepted|1|128|540
+1338: Ugly Numbers|GCC|Wrong Answer|1|128|569
+1338: Ugly Numbers|GCC|Runtime Error|1|128|537
+2977: 生理周期|GCC|Accepted|0|200|353
+4148: 生理周期|GCC|Accepted|2|136|515
+1006: Biorhythms|GCC|Accepted|0|476|2038
+1006: Biorhythms|GCC|Presentation Error|1|476|2122
+4148: 生理周期|GCC|Presentation Error|0|136|511
+1006: Biorhythms|GCC|Presentation Error|9|476|2033
+1406: A Starship Hakodate-maru|GCC|Wrong Answer|24|144|824
+1406: A Starship Hakodate-maru|GCC|Wrong Answer|35|144|804
+1406: A Starship Hakodate-maru|GCC|Wrong Answer|75|144|1045
+1406: A Starship Hakodate-maru|GCC|Wrong Answer|61|144|1061
+2980: 大整数乘法|GCC|Accepted|1|200|963
+2980: 大整数乘法|GCC|Wrong Answer|0|164|991
+2980: 大整数乘法|GCC|Wrong Answer|0|200|992
+2981: 大整数加法|GCC|Accepted|0|200|847
+2981: 大整数加法|GCC|Wrong Answer|1|200|845
+2981: 大整数加法|GCC|Wrong Answer|0|196|988
+2981: 大整数加法|GCC|Compile Error|-1|-1|973
+2981: 大整数加法|GCC|Wrong Answer|1|200|1031
+2981: 大整数加法|GCC|Wrong Answer|0|200|1000
+2729: 求12以内n的阶乘|G++|Accepted|1|144|214
+2729: 求12以内n的阶乘|GCC|Accepted|1|144|210
+2729: 求12以内n的阶乘|GCC|Accepted|1|144|214
+2729: 求12以内n的阶乘|GCC|Accepted|1|144|224
+2729: 求12以内n的阶乘|GCC|Accepted|1|144|242
+2729: 求12以内n的阶乘|GCC|Wrong Answer|3|144|241
+2729: 求12以内n的阶乘|GCC|Accepted|2|144|170
+1338: Ugly Numbers|GCC|Runtime Error|1|128|537
+1664: 放苹果|GCC|Accepted|0|128|384
+1298: The Hardest Problem Ever|GCC|Accepted|0|136|648
+1: Aggressive cows|GCC|Accepted|86|3320|1193
+1: Aggressive cows|GCC|Time Limit Exceeded|1006|3828|1052
+1: Aggressive cows|GCC|Wrong Answer|1005|3828|1050
+2: 2的幂次方表示|G++|Accepted|0|160|801
+1: 全排列|G++|Accepted|0|172|263
+2739: 计算对数|GCC|Wrong Answer|0|200|747
+2739: 计算对数|GCC|Wrong Answer|0|200|691
+2524: 宗教信仰|GCC|Accepted|172|6280|711
+2524: 宗教信仰|GCC|Wrong Answer|169|6280|552
+1406: A Starship Hakodate-maru|GCC|Accepted|4|144|27861
+1503: Integer Inquiry|GCC|Accepted|0|168|536
+1488: TEX Quotes|GCC|Accepted|3|256|398
+1488: TEX Quotes|GCC|Wrong Answer|2|256|560
+1488: TEX Quotes|GCC|Wrong Answer|0|128|558
+1953: World Cup Noise|GCC|Accepted|0|136|525
+1953: World Cup Noise|GCC|Wrong Answer|0|136|617
+1953: World Cup Noise|GCC|Time Limit Exceeded|1000|136|442
+1000: A+B Problem|Python3|Accepted|74|6772|41
+1000: A+B Problem|Python3|Runtime Error|72|6772|36
+1000: A+B Problem|Python3|Runtime Error|74|6772|48
+2764: 数根|GCC|Accepted|0|200|297
+2764: 数根|GCC|Wrong Answer|1|200|296
+2764: 数根|GCC|Wrong Answer|0|200|226
+1664: 放苹果|GCC|Accepted|0|128|260
+1503: Integer Inquiry|GCC|Wrong Answer|0|168|597
+1004: 财务管理|GCC|Accepted|0|200|176
+3708: 1的个数|GCC|Accepted|0|128|230
+4142: 二分法求函数的零点|GCC|Accepted|0|128|440
+4142: 二分法求函数的零点|GCC|Wrong Answer|0|128|440
+1183: 反正切函数的应用|GCC|Accepted|2|200|295
+1183: 反正切函数的应用|GCC|Output Limit Exceeded|302|2056|432
+1: 红与黑|G++|Accepted|4|312|751
+3: 棋盘问题|G++|Accepted|46|136|1531
+2: A Knight's Journey|G++|Accepted|3|136|1485
+1: 红与黑|G++|Wrong Answer|0|132|938
+3: 分蛋糕|G++|Accepted|6|256|930
+2: Charm Bracelet|G++|Accepted|210|360|449
+1: 复杂的整数划分问题|G++|Accepted|13|128|1727
+1088: 滑雪|GCC|Compile Error|-1|-1|1524
+006: 简单的整数划分问题|GCC|Wrong Answer|0|128|366
+006: 简单的整数划分问题|GCC|Wrong Answer|0|128|366
+006: 简单的整数划分问题|GCC|Wrong Answer|0|128|418
+006: 简单的整数划分问题|GCC|Wrong Answer|0|128|193
+006: 简单的整数划分问题|GCC|Wrong Answer|0|128|244
+5: 最佳加法表达式|G++|Runtime Error|2|4608|911
+7: 矩阵转置|G++|Wrong Answer|17|676|257
+7: 矩阵转置|G++|Wrong Answer|0|128|235
+4: Zipper|G++|Accepted|24|512|943
+4: Zipper|G++|Compile Error|-1|-1|985
+3: 拦截导弹|G++|Accepted|0|160|758
+3: 拦截导弹|G++|Wrong Answer|0|144|61
+3: 拦截导弹|G++|Runtime Error|0|144|495
+3: 拦截导弹|G++|Wrong Answer|0|160|535
+001: 输出第二个整数|G++|Accepted|0|200|119
+1: 输出前k大的数|G++|Accepted|143|6624|2408
+1: 输出前k大的数|G++|Compile Error|-1|-1|2336
+1: 输出前k大的数|G++|Wrong Answer|141|6496|1392
+1: 输出前k大的数|G++|Wrong Answer|147|6496|1420
+1: 输出前k大的数|G++|Wrong Answer|148|6624|1741
+1: 输出前k大的数|G++|Runtime Error|0|128|1806
+1: 输出前k大的数|G++|Wrong Answer|149|6496|1392
+1: 输出前k大的数|G++|Compile Error|-1|-1|1391
+1: 输出前k大的数|GCC|Compile Error|-1|-1|1362
+1: 输出前k大的数|GCC|Compile Error|-1|-1|1364
+1: 输出前k大的数|GCC|Compile Error|-1|-1|1322
+2: 求排列的逆序数|GCC|Accepted|32|2832|1917
+2: 求排列的逆序数|GCC|Compile Error|-1|-1|1920
+2: 求排列的逆序数|GCC|Compile Error|-1|-1|1920
+2: 求排列的逆序数|GCC|Wrong Answer|32|2832|1202
+2: 求排列的逆序数|GCC|Wrong Answer|33|2832|1912
+2: 求排列的逆序数|GCC|Compile Error|-1|-1|1939
+1: 输出前k大的数|G++|Time Limit Exceeded|7721|5144|1286
