@@ -5,9 +5,8 @@
 ### 
 - basic Java Program
 - GUI
-- OpenCV for Java
 - web scratch
+- graphics
 ## target webpage
 http://openjudge.cn/user/785958/?page=2
 
-#liu
