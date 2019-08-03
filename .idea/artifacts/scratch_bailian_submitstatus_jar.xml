@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="scratch_bailian_submitstatus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/scratch_bailian_submitstatus_jar</output-path>
+    <root id="archive" name="scratch_bailian_submitstatus.jar">
+      <element id="module-output" name="scratch_bailian_submitstatus" />
+    </root>
+  </artifact>
+</component>
