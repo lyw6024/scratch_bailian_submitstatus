@@ -4,9 +4,10 @@
 ## About
 ### 
 - basic Java Program
-- GUI
+- jsp
+- javascript: highchart
 - web scratch
 - graphics
 ## target webpage
-http://openjudge.cn/user/785958/?page=2
+http://www.nmc.cn/publish/forecast/china.html
 
