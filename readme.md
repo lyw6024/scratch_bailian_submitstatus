@@ -7,7 +7,8 @@
 - jsp
 - javascript: highchart
 - web scratch
-- graphics
+- eclipse project
+- data visualization
 ## target webpage
 http://www.nmc.cn/publish/forecast/china.html
 
