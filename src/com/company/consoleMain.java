@@ -7,12 +7,13 @@ public class consoleMain {
     public static void main(String[] argv)
     {
 
-        List<Integer> arr=webManage.getTemperatureList();
-        for(Integer it :arr)
+    	Map<String,Integer>weatherMaps= webManage.getWeatherMap();
+        
+        Set<String> lanSet=weatherMaps.keySet();
+        for(String it :lanSet)
         {
-            System.out.printf("%d,",it);
+            System.out.printf("%s,%d\n",it,weatherMaps.get(it));
         }
-        System.out.println();
 
     }
 }
